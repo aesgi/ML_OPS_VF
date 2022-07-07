@@ -1,0 +1,12 @@
+2022-07-07 15:51:38,555 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2022-07-07 15:51:38,889 - kedro.framework.session.session - WARNING - Unable to git describe C:\Users\alexd\Documents\ESGI\ML_OPS\projet_ml_ops
+2022-07-07 16:01:08,842 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2022-07-07 16:01:09,027 - kedro.framework.session.session - WARNING - Unable to git describe C:\Users\alexd\Documents\ESGI\ML_OPS\projet_ml_ops
+2022-07-07 16:07:35,314 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2022-07-07 16:07:35,465 - kedro.framework.session.session - WARNING - Unable to git describe C:\Users\alexd\Documents\ESGI\ML_OPS\projet_ml_ops
+2022-07-07 16:08:41,491 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2022-07-07 16:08:41,631 - kedro.framework.session.session - WARNING - Unable to git describe C:\Users\alexd\Documents\ESGI\ML_OPS\projet_ml_ops
+2022-07-07 16:09:49,827 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2022-07-07 16:09:49,972 - kedro.framework.session.session - WARNING - Unable to git describe C:\Users\alexd\Documents\ESGI\ML_OPS\projet_ml_ops
+2022-07-07 16:25:43,400 - kedro.framework.session.store - INFO - `read()` not implemented for `BaseSessionStore`. Assuming empty store.
+2022-07-07 16:25:43,450 - kedro.framework.session.session - WARNING - Unable to git describe C:\Users\alexd\Documents\ESGI\ML_OPS\projet_ml_ops

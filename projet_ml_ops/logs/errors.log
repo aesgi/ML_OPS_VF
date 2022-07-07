@@ -1,0 +1,6 @@
+2022-07-07 16:01:12,673 - kedro.pipeline.node - ERROR - Node `encode_features([primary]) -> [dataset,transform_pipeline]` failed with error: 
+'Date_day'
+2022-07-07 16:07:39,199 - kedro.pipeline.node - ERROR - Node `encode_features([primary]) -> [dataset,transform_pipeline]` failed with error: 
+'Series' object has no attribute 'strftime'
+2022-07-07 16:08:46,657 - kedro.pipeline.node - ERROR - Node `encode_features([primary]) -> [dataset,transform_pipeline]` failed with error: 
+'Date_day'
