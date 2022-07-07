@@ -10,8 +10,7 @@ def encode_features(dataset: pd.DataFrame) -> pd.DataFrame:
     """
     Encode features of data file.
     """
-    features = dataset.drop(["TransactionNo", "ProductNo"], axis=1).copy()
-    features = dataset.drop(["Date"], axis=1).copy()
+    features = dataset.drop(columns = ["TransactionNo", "ProductNo", "Date"])
     encoders = []
     for label in ["Date_day", "Date_month", "Date_year", "ProductName", "Country"]:
         #features[label] = features[label].astype(str)
